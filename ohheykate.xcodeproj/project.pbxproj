@@ -13,6 +13,7 @@
 		24C01DDD2548400600223842 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24C01DDC2548400600223842 /* Assets.xcassets */; };
 		24C01DE02548400600223842 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24C01DDE2548400600223842 /* LaunchScreen.storyboard */; };
 		24C071EF25889D6E000F587B /* tashkent.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 24C071EE25889D6E000F587B /* tashkent.gpx */; };
+		24F4CA1F2601EAC200F7F3FB /* tula.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 24F4CA1E2601EAC200F7F3FB /* tula.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,8 @@
 		24C01DF0254840CC00223842 /* bandung.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = bandung.gpx; sourceTree = "<group>"; };
 		24C01DF1254840CC00223842 /* limassol.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = limassol.gpx; sourceTree = "<group>"; };
 		24C071EE25889D6E000F587B /* tashkent.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = tashkent.gpx; sourceTree = "<group>"; };
+		24C2CB7625B5A23000671CC0 /* neryungri.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = neryungri.gpx; sourceTree = "<group>"; };
+		24F4CA1E2601EAC200F7F3FB /* tula.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = tula.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +60,8 @@
 				24C01DEB254840CB00223842 /* tchita.gpx */,
 				24C01DEE254840CB00223842 /* yakutsk.gpx */,
 				24C01DEC254840CB00223842 /* zyrianka.gpx */,
+				24C2CB7625B5A23000671CC0 /* neryungri.gpx */,
+				24F4CA1E2601EAC200F7F3FB /* tula.gpx */,
 			);
 			path = Locations;
 			sourceTree = "<group>";
@@ -150,6 +155,7 @@
 			files = (
 				24C01DE02548400600223842 /* LaunchScreen.storyboard in Resources */,
 				24C01DDD2548400600223842 /* Assets.xcassets in Resources */,
+				24F4CA1F2601EAC200F7F3FB /* tula.gpx in Resources */,
 				24C01DDB2548400500223842 /* Main.storyboard in Resources */,
 				24C071EF25889D6E000F587B /* tashkent.gpx in Resources */,
 			);
