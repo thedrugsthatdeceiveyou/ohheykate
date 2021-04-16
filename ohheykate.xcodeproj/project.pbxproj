@@ -17,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2451C4032629A6B00030B89C /* astana.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = astana.gpx; sourceTree = "<group>"; };
 		24C01DD02548400500223842 /* ohheykate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ohheykate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		24C01DD32548400500223842 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		24C01DD72548400500223842 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -62,6 +63,7 @@
 				24C01DEC254840CB00223842 /* zyrianka.gpx */,
 				24C2CB7625B5A23000671CC0 /* neryungri.gpx */,
 				24F4CA1E2601EAC200F7F3FB /* tula.gpx */,
+				2451C4032629A6B00030B89C /* astana.gpx */,
 			);
 			path = Locations;
 			sourceTree = "<group>";
